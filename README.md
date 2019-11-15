@@ -11,8 +11,7 @@ You will be creating a small VueJS application using the basic syntax we have co
 4. Connect WEB2630_Exercise1 to Netlify
 5. Submit Your GitHub and Netlify URL on Canvas
 
-**Note: Remember to make your GitHub repository private and add me as a collaborator **
-GitHub username: CodySquadroni
+**Note: Remember to make your GitHub repository private and add me as a collaborator GitHub username: CodySquadroni**
 
 ## Final Outcome
 
