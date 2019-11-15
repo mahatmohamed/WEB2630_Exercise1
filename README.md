@@ -1,9 +1,9 @@
 # WEB 2630 Exercise 1
 > In this exercise you will be practicing the basic functionality of VueJS.
 
-One to two paragraph statement about your product and what it does.
+You will be creating a small VueJS application using the basic syntax we have covered in class. This will consist of interacting with the DOM, using conditionals, and rendering lists. Below is a GIF displaying the final outcome.
 
-![](header.png)
+![](Exercise1_Finished.gif)
 
 ## Exercise Steps
 
