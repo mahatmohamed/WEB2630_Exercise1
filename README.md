@@ -6,7 +6,7 @@ You will be creating a small VueJS application using the basic syntax we have co
 ## Exercise Steps
 
 1. Fork it (<https://github.com/CodySquadroni/WEB2630_Exercise1/fork>)
-2. Clone it (<https://github.com/YourGitHubUserName/WEB2630_Exercise1/>)
+2. Clone it (<https://github.com/GITHUB_USERNAME/WEB2630_Exercise1/>)
 3. Complete ToDo's in index.html
 4. Connect WEB2630_Exercise1 to Netlify
 5. Submit Your GitHub and Netlify URL on Canvas
