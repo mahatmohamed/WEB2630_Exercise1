@@ -15,6 +15,9 @@ You will be creating a small VueJS application using the basic syntax we have co
     3. Copy Template Into Your Repository
         * git push --mirror https://github.com/GITHUB_USERNAME/WEB2630_Exercise1
             * Note: Make sure to put your GitHub Username in place of GITHUB_USERNAME
+    4. Remove Copy WEB2630_Exercise1.git
+    5. Clone Your GitHub Repository
+        * git clone https://github.com/GITHUB_USERNAME/WEB2630_Exercise1
 3. Complete ToDo's in index.html
 4. Connect WEB2630_Exercise1 to Netlify
 5. Submit Your GitHub and Netlify URL on Canvas
