@@ -8,8 +8,9 @@ You will be creating a small VueJS application using the basic syntax we have co
 1. Create WEB2630_Exercise 1 Repository on GitHub
     * Note: Make Repository Private
 2. Open Terminal or Command Prompt
-    1. Clone Templategit clone --bare https://github.com/CodySquadroni/WEB2630_Exercise1
-        * Note: Make sure to 'cd' to a directory you want it downloaded to.
+    1. Clone Template
+        * git clone --bare https://github.com/CodySquadroni/WEB2630_Exercise1
+            * Note: Make sure to 'cd' to a directory you want it downloaded to.
     2. cd Into WEB2630_Exercise1.git
     3. Copy Template Into Your Repository
         * git push --mirror https://github.com/GITHUB_USERNAME/WEB2630_Exercise1
