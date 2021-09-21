@@ -3,7 +3,6 @@ new Vue({
 	data: {
 		name: 'Mahat',
 		age: 27,
-		image: '',
     title: 'dynamicText',
 
     food: [
